@@ -1,0 +1,21 @@
+# Keep secrets and volatile Codex runtime state out of backup commits.
+auth.json
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.bak
+*.tmp
+logs/
+sessions/
+cache/
+plugins/
+.sandbox/
+.sandbox-bin/
+.sandbox-secrets/
+.tmp/
+tmp/
+repair-quarantine/
+vendor_imports/
+models_cache.json
+session_index.jsonl
+cap_sid
