@@ -1,0 +1,14 @@
+9c96fe7c25db4f44c39ef1b7791b81f51f9e02541de8647aaf0629a672bb8efe  latest/codex-backup-manifest-latest.json
+7d7320b339ce2aab5be00e76862bf558b162defb09f4afb52a3c1c028d206254  latest/codex-config-safe-adama-latest.zip
+1722fb2be90902218925abd6cba87f8c84d37d29d864ac735012d6b2fe6f6e94  latest/codex-config-safe-core-latest.zip
+ce84540df43495c041e1106ab7f9d57cdac516c97109a55e1f63993a6e53eb3a  latest/codex-config-safe-kamin-latest.zip
+b6a243c6ffb8a7ffe51714a19b9f748ad800b938d626dd9e642453c729cfea79  latest/codex-config-safe-rnaseq-agent-latest.zip
+40d9e30439641430c322aaaa0cddddb96079afe73e080c0c3ff6fc21e4af6259  latest/codex-documents-2026-05-14-latest.zip
+b90539e4c3a37a91485a362319210dd2a1fc01b7a8d09f46a0f855d7ec7c3508  latest/codex-documents-2026-05-28-latest.zip
+f8e66c07a8df582834221ce8ea7ea028f4e26dedb833f8103831bce25453f193  latest/codex-documents-2026-06-03-latest.zip
+8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85  latest/codex-documents-2026-06-04-latest.zip
+72c5d4a06c968f2b37eb96ce3ec305121f7e60f96bcada85c713d8ad170618b2  latest/codex-documents-2026-06-11-latest.zip
+45c30f43e5004ca48ce48fd1788b4f32508bd3ae5689e423f7127985ffe49dd1  latest/codex-documents-2026-06-17-latest.zip
+8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85  latest/codex-documents-2026-06-22-latest.zip
+8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85  latest/codex-documents-2026-06-23-latest.zip
+558d8ef7a2f9c397ef01b091af5b1fd993df9168d3610f0f5d8928b523a6bcd0  latest/codex-documents-2026-06-30-latest.zip
