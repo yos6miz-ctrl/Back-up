@@ -12,7 +12,7 @@
                                          "exists":  true,
                                          "files":  458,
                                          "dirs":  152,
-                                         "bytes":  57191630
+                                         "bytes":  57191629
                                      },
                            "outputTail":  [
                                               "",
@@ -23,16 +23,16 @@
                                               "   Times :   0:00:00   0:00:00                       0:00:00   0:00:00",
                                               "",
                                               "",
-                                              "   Speed :           3,018,800 Bytes/sec.",
-                                              "   Speed :             172.737 MegaBytes/min.",
-                                              "   Ended : יום שני 13 יולי 2026 13:49:49",
+                                              "   Speed :           3,018,600 Bytes/sec.",
+                                              "   Speed :             172.726 MegaBytes/min.",
+                                              "   Ended : יום שני 13 יולי 2026 13:51:02",
                                               ""
                                           ]
                        },
     "codexConfigSafe":  {
                             "source":  "C:\\Users\\Popovtzer lab\\.codex",
                             "destination":  "C:\\Users\\Popovtzer lab\\OneDrive - Bar Ilan University (1)\\Banin Lab Files\\Lab members\\Yosi\\Codex-backup\\codex-config-safe",
-                            "robocopyCode":  3,
+                            "robocopyCode":  2,
                             "stats":  {
                                           "exists":  true,
                                           "files":  383,
@@ -46,13 +46,13 @@
                                                "------------------------------------------------------------------------------",
                                                "",
                                                "               Total    Copied   Skipped  Mismatch    FAILED    Extras",
-                                               "    Dirs :       155         1       154         0         0         1",
-                                               "   Files :       394         1       393         0         0         0",
-                                               "   Bytes :  139.54 m     2.2 k  139.54 m         0         0         0",
+                                               "    Dirs :       155         0       155         0         0         1",
+                                               "   Files :       394         0       394         0         0         0",
+                                               "   Bytes :  139.54 m         0  139.54 m         0         0         0",
                                                "   Times :   0:00:00   0:00:00                       0:00:00   0:00:00",
-                                               "   Ended : יום שני 13 יולי 2026 13:49:50",
+                                               "   Ended : יום שני 13 יולי 2026 13:51:03",
                                                ""
                                            ]
                         },
-    "completedAt":  "2026-07-13T13:49:50.5190644+03:00"
+    "completedAt":  "2026-07-13T13:51:03.4614837+03:00"
 }
