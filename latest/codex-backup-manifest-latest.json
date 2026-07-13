@@ -12,20 +12,20 @@
                                          "exists":  true,
                                          "files":  458,
                                          "dirs":  152,
-                                         "bytes":  57191098
+                                         "bytes":  57191630
                                      },
                            "outputTail":  [
                                               "",
                                               "               Total    Copied   Skipped  Mismatch    FAILED    Extras",
                                               "    Dirs :       158         0       158         0         0         0",
                                               "   Files :       445         1       444         0         0         1",
-                                              "   Bytes :  195.30 m    14.2 k  195.28 m         0         0     4.0 k",
+                                              "   Bytes :  195.30 m    14.7 k  195.28 m         0         0     4.0 k",
                                               "   Times :   0:00:00   0:00:00                       0:00:00   0:00:00",
                                               "",
                                               "",
-                                              "   Speed :           1,820,250 Bytes/sec.",
-                                              "   Speed :             104.156 MegaBytes/min.",
-                                              "   Ended : יום שני 13 יולי 2026 13:36:45",
+                                              "   Speed :           3,018,800 Bytes/sec.",
+                                              "   Speed :             172.737 MegaBytes/min.",
+                                              "   Ended : יום שני 13 יולי 2026 13:49:49",
                                               ""
                                           ]
                        },
@@ -35,24 +35,24 @@
                             "robocopyCode":  3,
                             "stats":  {
                                           "exists":  true,
-                                          "files":  382,
-                                          "dirs":  140,
-                                          "bytes":  78287721
+                                          "files":  383,
+                                          "dirs":  141,
+                                          "bytes":  78289980
                                       },
                             "outputTail":  [
+                                               "\t                   8\tC:\\Users\\Popovtzer lab\\.codex\\????\\work\\5. PA4683\\",
+                                               "\t                   2\tC:\\Users\\Popovtzer lab\\.codex\\????\\???? ????\\",
+                                               "",
+                                               "------------------------------------------------------------------------------",
                                                "",
                                                "               Total    Copied   Skipped  Mismatch    FAILED    Extras",
-                                               "    Dirs :       154         0       154         0         0         1",
-                                               "   Files :       397         1       396         0         0         0",
-                                               "   Bytes :  140.95 m    58.9 k  140.89 m         0         0         0",
+                                               "    Dirs :       155         1       154         0         0         1",
+                                               "   Files :       394         1       393         0         0         0",
+                                               "   Bytes :  139.54 m     2.2 k  139.54 m         0         0         0",
                                                "   Times :   0:00:00   0:00:00                       0:00:00   0:00:00",
-                                               "",
-                                               "",
-                                               "   Speed :           30,170,500 Bytes/sec.",
-                                               "   Speed :            1,726.370 MegaBytes/min.",
-                                               "   Ended : יום שני 13 יולי 2026 13:36:46",
+                                               "   Ended : יום שני 13 יולי 2026 13:49:50",
                                                ""
                                            ]
                         },
-    "completedAt":  "2026-07-13T13:36:46.2070658+03:00"
+    "completedAt":  "2026-07-13T13:49:50.5190644+03:00"
 }
