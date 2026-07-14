@@ -1,6 +1,6 @@
-6a33a8340e989b9ccd68574f0e8a319f9f59bece5c27e744740f2236d2dee3b8  latest/codex-backup-manifest-latest.json
+9acb2d512ea9900c4ed5a2822d50d345c8157e0f8cb7af3ea38b3f538eabef3d  latest/codex-backup-manifest-latest.json
 7d7320b339ce2aab5be00e76862bf558b162defb09f4afb52a3c1c028d206254  latest/codex-config-safe-adama-latest.zip
-5560ede7a1002dd74231355ba0e5a973e05dfb32e446ae8d9d06407145568748  latest/codex-config-safe-core-latest.zip
+c50be762ced434fc144a5535e45bd0f931b8ba8154c898889ecbb077de0ccdd5  latest/codex-config-safe-core-latest.zip
 ce84540df43495c041e1106ab7f9d57cdac516c97109a55e1f63993a6e53eb3a  latest/codex-config-safe-kamin-latest.zip
 b6a243c6ffb8a7ffe51714a19b9f748ad800b938d626dd9e642453c729cfea79  latest/codex-config-safe-rnaseq-agent-latest.zip
 40d9e30439641430c322aaaa0cddddb96079afe73e080c0c3ff6fc21e4af6259  latest/codex-documents-2026-05-14-latest.zip
