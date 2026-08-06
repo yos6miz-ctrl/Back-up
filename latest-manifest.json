@@ -1,10 +1,74 @@
 ﻿{
-    "generatedAt":  "2026-08-06T20:43:22.2292427+03:00",
+    "generatedAt":  "2026-08-06T20:57:05.2943937+03:00",
     "maxFileBytes":  99614720,
     "copied":  [
                    {
-                       "name":  "codex-agent-.tmp.drivedownload-latest.zip",
-                       "bytes":  22
+                       "name":  "codex-agent-adama-yeruka-.doc-latest.zip",
+                       "bytes":  42790
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-.pdf-latest.zip",
+                       "bytes":  1018526
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-.pptx-latest.zip",
+                       "bytes":  224124
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-.pptx.inspect.ndjson-latest.zip",
+                       "bytes":  4115
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-.xlsx-latest.zip",
+                       "bytes":  7383
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-chatgpt-image-may-28-2026-01_42_10-pm.png-latest.zip",
+                       "bytes":  1732084
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-gemini_generated_image_tia3oatia3oatia3.png-latest.zip",
+                       "bytes":  4106167
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-item-latest.zip",
+                       "bytes":  4505366
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-starvation-and-alkane-detectors.pptx-latest.zip",
+                       "bytes":  114111
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-starvation-latest.zip",
+                       "bytes":  125061
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-upo-latest.zip",
+                       "bytes":  3428188
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-upo19-enzyme.pptx-latest.zip",
+                       "bytes":  805630
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-v2-latest.zip",
+                       "bytes":  3142424
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-v2.pptx-latest.zip",
+                       "bytes":  529133
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-v3.doc-latest.zip",
+                       "bytes":  341397
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-v3.pptx-latest.zip",
+                       "bytes":  581006
+                   },
+                   {
+                       "name":  "codex-agent-adama-yeruka-yossi-10feb2026.xlsx-latest.zip",
+                       "bytes":  135727
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20230911-latest.zip",
@@ -911,84 +975,20 @@
                        "bytes":  640775
                    },
                    {
-                       "name":  "codex-agent-item-.doc-latest.zip",
-                       "bytes":  42790
-                   },
-                   {
-                       "name":  "codex-agent-item-.pdf-latest.zip",
-                       "bytes":  1018526
-                   },
-                   {
-                       "name":  "codex-agent-item-.pptx-latest.zip",
-                       "bytes":  224124
-                   },
-                   {
-                       "name":  "codex-agent-item-.pptx.inspect.ndjson-latest.zip",
-                       "bytes":  4115
-                   },
-                   {
-                       "name":  "codex-agent-item-.xlsx-latest.zip",
-                       "bytes":  7383
-                   },
-                   {
-                       "name":  "codex-agent-item-chatgpt-image-may-28-2026-01_42_10-pm.png-latest.zip",
-                       "bytes":  1732084
-                   },
-                   {
-                       "name":  "codex-agent-item-exemp-latest.zip",
+                       "name":  "codex-agent-kamin-exemp-latest.zip",
                        "bytes":  8092969
                    },
                    {
-                       "name":  "codex-agent-item-gemini_generated_image_tia3oatia3oatia3.png-latest.zip",
-                       "bytes":  4106167
-                   },
-                   {
-                       "name":  "codex-agent-item-item-latest.zip",
+                       "name":  "codex-agent-kamin-item-latest.zip",
                        "bytes":  8900525
                    },
                    {
-                       "name":  "codex-agent-item-starvation-and-alkane-detectors.pptx-latest.zip",
-                       "bytes":  114111
-                   },
-                   {
-                       "name":  "codex-agent-item-starvation-latest.zip",
-                       "bytes":  125061
-                   },
-                   {
-                       "name":  "codex-agent-item-upo-latest.zip",
-                       "bytes":  3428188
-                   },
-                   {
-                       "name":  "codex-agent-item-upo19-enzyme.pptx-latest.zip",
-                       "bytes":  805630
-                   },
-                   {
-                       "name":  "codex-agent-item-v2-latest.zip",
-                       "bytes":  3142424
-                   },
-                   {
-                       "name":  "codex-agent-item-v2.pptx-latest.zip",
-                       "bytes":  529133
-                   },
-                   {
-                       "name":  "codex-agent-item-v3.doc-latest.zip",
-                       "bytes":  341397
-                   },
-                   {
-                       "name":  "codex-agent-item-v3.pptx-latest.zip",
-                       "bytes":  581006
-                   },
-                   {
-                       "name":  "codex-agent-item-work-latest.zip",
+                       "name":  "codex-agent-kamin-work-latest.zip",
                        "bytes":  5114494
                    },
                    {
-                       "name":  "codex-agent-item-yossi-10feb2026.xlsx-latest.zip",
-                       "bytes":  135727
-                   },
-                   {
                        "name":  "codex-agent-manifest-latest.json",
-                       "bytes":  792
+                       "bytes":  1007
                    },
                    {
                        "name":  "codex-agent-rnaseq-agent-all_experiments_split_t7_master_summary_report.docx-latest.zip",
@@ -1012,15 +1012,7 @@
                    },
                    {
                        "name":  "codex-backup-manifest-latest.json",
-                       "bytes":  4212
-                   },
-                   {
-                       "name":  "codex-config-safe-adama-latest.zip",
-                       "bytes":  22940865
-                   },
-                   {
-                       "name":  "codex-config-safe-kamin-latest.zip",
-                       "bytes":  22107944
+                       "bytes":  4249
                    },
                    {
                        "name":  "codex-config-safe-rnaseq-agent-latest.zip",
@@ -1196,7 +1188,7 @@
                    },
                    {
                        "name":  "codex-documents-2026-06-30-latest.zip",
-                       "bytes":  5463
+                       "bytes":  5778
                    },
                    {
                        "name":  "codex-documents-2026-07-15-new-chat-outputs-latest.zip",
@@ -1626,7 +1618,7 @@
     "skipped":  [
                     {
                         "name":  "codex-config-safe-core-latest.zip",
-                        "bytes":  354335958,
+                        "bytes":  354336291,
                         "reason":  "exceeds_github_file_limit"
                     }
                 ]

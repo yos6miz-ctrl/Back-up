@@ -1,34 +1,37 @@
 ﻿[
     {
-        "name":  ".tmp.drivedownload",
-        "relativePath":  ".tmp.drivedownload"
-    },
-    {
         "name":  "Excel file editor",
-        "relativePath":  "Excel file editor"
+        "relativePath":  "Excel file editor",
+        "archivePrefix":  "excel-file-editor"
     },
     {
         "name":  "IBD vs IBS marker finder",
-        "relativePath":  "IBD vs IBS marker finder"
+        "relativePath":  "IBD vs IBS marker finder",
+        "archivePrefix":  "ibd-vs-ibs-marker-finder"
     },
     {
         "name":  "IBD-IBS Sample Classifier",
-        "relativePath":  "IBD-IBS Sample Classifier"
+        "relativePath":  "IBD-IBS Sample Classifier",
+        "archivePrefix":  "ibd-ibs-sample-classifier"
     },
     {
         "name":  "RNAseq agent",
-        "relativePath":  "RNAseq agent"
+        "relativePath":  "RNAseq agent",
+        "archivePrefix":  "rnaseq-agent"
     },
     {
         "name":  "Teads",
-        "relativePath":  "Teads"
+        "relativePath":  "Teads",
+        "archivePrefix":  "teads"
     },
     {
         "name":  "אדמה ירוקה",
-        "relativePath":  "אדמה ירוקה"
+        "relativePath":  "אדמה ירוקה",
+        "archivePrefix":  "adama-yeruka"
     },
     {
         "name":  "כמין",
-        "relativePath":  "כמין"
+        "relativePath":  "כמין",
+        "archivePrefix":  "kamin"
     }
 ]
