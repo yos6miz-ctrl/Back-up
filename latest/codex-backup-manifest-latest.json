@@ -7,52 +7,52 @@
     "documentsCodex":  {
                            "source":  "C:\\Users\\Popovtzer lab\\Documents\\Codex",
                            "destination":  "C:\\Users\\Popovtzer lab\\OneDrive - Bar Ilan University (1)\\Banin Lab Files\\Lab members\\Yosi\\Codex-backup\\Documents-Codex",
-                           "robocopyCode":  2,
+                           "robocopyCode":  3,
                            "stats":  {
                                          "exists":  true,
-                                         "files":  458,
-                                         "dirs":  152,
-                                         "bytes":  57191657
+                                         "files":  1196,
+                                         "dirs":  239,
+                                         "bytes":  250643178
                                      },
                            "outputTail":  [
-                                              "\t                   0\tC:\\Users\\Popovtzer lab\\Documents\\Codex\\2026-06-30\\yo\\work\\",
-                                              "\t                   0\tC:\\Users\\Popovtzer lab\\Documents\\Codex\\2026-06-30\\yo\\work\\empty-delete-source\\",
-                                              "",
-                                              "------------------------------------------------------------------------------",
                                               "",
                                               "               Total    Copied   Skipped  Mismatch    FAILED    Extras",
-                                              "    Dirs :       158         0       158         0         0         0",
-                                              "   Files :       445         0       445         0         0         1",
-                                              "   Bytes :  195.30 m         0  195.30 m         0         0     4.0 k",
+                                              "    Dirs :       247         0       247         0         0         3",
+                                              "   Files :      1185         1      1184         0         0         1",
+                                              "   Bytes :  379.79 m    18.0 k  379.77 m         0         0     4.0 k",
                                               "   Times :   0:00:00   0:00:00                       0:00:00   0:00:00",
-                                              "   Ended : יום שלישי 14 יולי 2026 13:33:08",
+                                              "",
+                                              "",
+                                              "   Speed :           18,491,000 Bytes/sec.",
+                                              "   Speed :            1,058.063 MegaBytes/min.",
+                                              "   Ended : יום חמישי 06 אוגוסט 2026 20:39:43",
                                               ""
                                           ]
                        },
     "codexConfigSafe":  {
                             "source":  "C:\\Users\\Popovtzer lab\\.codex",
                             "destination":  "C:\\Users\\Popovtzer lab\\OneDrive - Bar Ilan University (1)\\Banin Lab Files\\Lab members\\Yosi\\Codex-backup\\codex-config-safe",
-                            "robocopyCode":  3,
+                            "robocopyCode":  2,
                             "stats":  {
                                           "exists":  true,
-                                          "files":  384,
-                                          "dirs":  142,
-                                          "bytes":  80305090
+                                          "files":  985,
+                                          "dirs":  421,
+                                          "bytes":  486833679
                                       },
                             "outputTail":  [
+                                               "\t                   8\tC:\\Users\\Popovtzer lab\\.codex\\????\\work\\5. PA4683\\",
+                                               "\t                   2\tC:\\Users\\Popovtzer lab\\.codex\\????\\???? ????\\",
+                                               "",
+                                               "------------------------------------------------------------------------------",
                                                "",
                                                "               Total    Copied   Skipped  Mismatch    FAILED    Extras",
-                                               "    Dirs :       155         1       154         0         0         2",
-                                               "   Files :       397         3       394         0         0         0",
-                                               "   Bytes :  139.57 m    1.97 m  137.59 m         0         0         0",
+                                               "    Dirs :       436         0       436         0         0         1",
+                                               "   Files :       987         0       987         0         0        12",
+                                               "   Bytes :  529.48 m         0  529.48 m         0         0    6.21 m",
                                                "   Times :   0:00:00   0:00:00                       0:00:00   0:00:00",
-                                               "",
-                                               "",
-                                               "   Speed :           138,373,400 Bytes/sec.",
-                                               "   Speed :             7,917.790 MegaBytes/min.",
-                                               "   Ended : יום שלישי 14 יולי 2026 13:33:10",
+                                               "   Ended : יום חמישי 06 אוגוסט 2026 20:39:44",
                                                ""
                                            ]
                         },
-    "completedAt":  "2026-07-14T13:33:10.4917460+03:00"
+    "completedAt":  "2026-08-06T20:39:44.8528241+03:00"
 }

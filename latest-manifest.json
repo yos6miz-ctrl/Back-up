@@ -1,0 +1,1633 @@
+﻿{
+    "generatedAt":  "2026-08-06T20:43:22.2292427+03:00",
+    "maxFileBytes":  99614720,
+    "copied":  [
+                   {
+                       "name":  "codex-agent-.tmp.drivedownload-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20230911-latest.zip",
+                       "bytes":  1988192
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20230912-latest.zip",
+                       "bytes":  3937281
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20230914-latest.zip",
+                       "bytes":  3510447
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20230919-latest.zip",
+                       "bytes":  8990021
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20230921-latest.zip",
+                       "bytes":  3863011
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20230927-latest.zip",
+                       "bytes":  1769537
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20230928-latest.zip",
+                       "bytes":  3490278
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231026-latest.zip",
+                       "bytes":  4019248
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231030-latest.zip",
+                       "bytes":  3836229
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231031-latest.zip",
+                       "bytes":  1820266
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231110-latest.zip",
+                       "bytes":  3749519
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231113-latest.zip",
+                       "bytes":  3392873
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231114-latest.zip",
+                       "bytes":  3383425
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231115-latest.zip",
+                       "bytes":  3181331
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231127-latest.zip",
+                       "bytes":  3452872
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231129-latest.zip",
+                       "bytes":  5312482
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231130-latest.zip",
+                       "bytes":  4061923
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20231204-latest.zip",
+                       "bytes":  1645578
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240124-latest.zip",
+                       "bytes":  542601
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240125-latest.zip",
+                       "bytes":  1163675
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240129-latest.zip",
+                       "bytes":  1169570
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240201-latest.zip",
+                       "bytes":  587476
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240222-latest.zip",
+                       "bytes":  578015
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240729-latest.zip",
+                       "bytes":  1125398
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240730-latest.zip",
+                       "bytes":  1178384
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240805-1-latest.zip",
+                       "bytes":  431240
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240805-latest.zip",
+                       "bytes":  1056170
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240807-latest.zip",
+                       "bytes":  1061312
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240808-latest.zip",
+                       "bytes":  1105238
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240812-latest.zip",
+                       "bytes":  1127570
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20240815-latest.zip",
+                       "bytes":  959211
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250116-latest.zip",
+                       "bytes":  611494
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250122-latest.zip",
+                       "bytes":  584007
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250127-latest.zip",
+                       "bytes":  581133
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250128-latest.zip",
+                       "bytes":  773660
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250129-latest.zip",
+                       "bytes":  584112
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250130-latest.zip",
+                       "bytes":  596526
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250203-latest.zip",
+                       "bytes":  565365
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250204-latest.zip",
+                       "bytes":  586888
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250206-latest.zip",
+                       "bytes":  562120
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250211-latest.zip",
+                       "bytes":  599057
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250212-latest.zip",
+                       "bytes":  505102
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250213-latest.zip",
+                       "bytes":  598615
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250218-latest.zip",
+                       "bytes":  708975
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250219-latest.zip",
+                       "bytes":  799107
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250306-latest.zip",
+                       "bytes":  526872
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250318-latest.zip",
+                       "bytes":  485529
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250421-latest.zip",
+                       "bytes":  721589
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250506-latest.zip",
+                       "bytes":  594809
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250512-latest.zip",
+                       "bytes":  583180
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250514-latest.zip",
+                       "bytes":  594115
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250519-latest.zip",
+                       "bytes":  611861
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250527-latest.zip",
+                       "bytes":  763318
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250605-latest.zip",
+                       "bytes":  818112
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250630-latest.zip",
+                       "bytes":  591779
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250701-latest.zip",
+                       "bytes":  735931
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250702-latest.zip",
+                       "bytes":  765655
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250707-latest.zip",
+                       "bytes":  743288
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250708-latest.zip",
+                       "bytes":  471673
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250709-latest.zip",
+                       "bytes":  769997
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250715-latest.zip",
+                       "bytes":  677358
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250716-latest.zip",
+                       "bytes":  727285
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250717-latest.zip",
+                       "bytes":  789417
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250721-latest.zip",
+                       "bytes":  768013
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250728-latest.zip",
+                       "bytes":  760771
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250729-latest.zip",
+                       "bytes":  760874
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250731-latest.zip",
+                       "bytes":  783677
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250805-latest.zip",
+                       "bytes":  661207
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250806-latest.zip",
+                       "bytes":  725940
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20250908-latest.zip",
+                       "bytes":  751708
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251016-latest.zip",
+                       "bytes":  752998
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251020-latest.zip",
+                       "bytes":  739159
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251021-latest.zip",
+                       "bytes":  765500
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251022-latest.zip",
+                       "bytes":  739553
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251027-latest.zip",
+                       "bytes":  560648
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251028-latest.zip",
+                       "bytes":  722145
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251104-latest.zip",
+                       "bytes":  746184
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251105-latest.zip",
+                       "bytes":  476628
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251110-latest.zip",
+                       "bytes":  707882
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20251111-latest.zip",
+                       "bytes":  688961
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260101-latest.zip",
+                       "bytes":  346066
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260106-latest.zip",
+                       "bytes":  531284
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260112-latest.zip",
+                       "bytes":  591348
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260113-latest.zip",
+                       "bytes":  579192
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260120-latest.zip",
+                       "bytes":  748434
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260126-latest.zip",
+                       "bytes":  671088
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260211-latest.zip",
+                       "bytes":  747301
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260219-latest.zip",
+                       "bytes":  748489
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260317-latest.zip",
+                       "bytes":  828696
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260318-latest.zip",
+                       "bytes":  477644
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260415-latest.zip",
+                       "bytes":  442789
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-new-447-new-20260518-latest.zip",
+                       "bytes":  1282070
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230228-latest.zip",
+                       "bytes":  1879782
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230302-latest.zip",
+                       "bytes":  2383424
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230309-latest.zip",
+                       "bytes":  2710403
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230313-latest.zip",
+                       "bytes":  2651262
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230314-latest.zip",
+                       "bytes":  2605294
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230315-latest.zip",
+                       "bytes":  2677335
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230316-latest.zip",
+                       "bytes":  2226684
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230320-latest.zip",
+                       "bytes":  2560908
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230321-latest.zip",
+                       "bytes":  2573920
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230322-latest.zip",
+                       "bytes":  2324392
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230323-latest.zip",
+                       "bytes":  2607513
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230327-latest.zip",
+                       "bytes":  1346747
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230328-latest.zip",
+                       "bytes":  2044389
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230329-latest.zip",
+                       "bytes":  2208331
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230417-latest.zip",
+                       "bytes":  3430054
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230418-latest.zip",
+                       "bytes":  1658815
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230419-latest.zip",
+                       "bytes":  1665853
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230420-latest.zip",
+                       "bytes":  1570956
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230423-latest.zip",
+                       "bytes":  1576327
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230424-latest.zip",
+                       "bytes":  1833511
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230501-latest.zip",
+                       "bytes":  1629440
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230502-latest.zip",
+                       "bytes":  1804391
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230504-latest.zip",
+                       "bytes":  1409802
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230619-latest.zip",
+                       "bytes":  2659906
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230620-latest.zip",
+                       "bytes":  3044800
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230621-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230622-latest.zip",
+                       "bytes":  3307384
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230626-latest.zip",
+                       "bytes":  1621271
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230627-latest.zip",
+                       "bytes":  2642733
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230628-latest.zip",
+                       "bytes":  6211913
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230703-latest.zip",
+                       "bytes":  6029486
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230706-latest.zip",
+                       "bytes":  2607754
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230710-latest.zip",
+                       "bytes":  2646080
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230711-latest.zip",
+                       "bytes":  3023374
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230712-latest.zip",
+                       "bytes":  2961286
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230717-latest.zip",
+                       "bytes":  2176968
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230718-latest.zip",
+                       "bytes":  2403422
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230720-latest.zip",
+                       "bytes":  2304040
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230724-latest.zip",
+                       "bytes":  4962400
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230726-latest.zip",
+                       "bytes":  2486661
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230727-latest.zip",
+                       "bytes":  3555664
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230731-latest.zip",
+                       "bytes":  4786733
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230801-latest.zip",
+                       "bytes":  4809856
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230802-latest.zip",
+                       "bytes":  2697047
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230803-latest.zip",
+                       "bytes":  1338900
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230807-2-latest.zip",
+                       "bytes":  5617838
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230807-latest.zip",
+                       "bytes":  4858058
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230808-2-latest.zip",
+                       "bytes":  8304533
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230808-latest.zip",
+                       "bytes":  2429960
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230809-latest.zip",
+                       "bytes":  2512171
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230814-latest.zip",
+                       "bytes":  2448145
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230816-latest.zip",
+                       "bytes":  2443658
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230817-latest.zip",
+                       "bytes":  1626411
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-447-old-447-old-20230829-latest.zip",
+                       "bytes":  1131366
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240507-latest.zip",
+                       "bytes":  1040616
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240509-latest.zip",
+                       "bytes":  394395
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240515-latest.zip",
+                       "bytes":  472497
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240516-latest.zip",
+                       "bytes":  858507
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240520-latest.zip",
+                       "bytes":  411560
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240521-latest.zip",
+                       "bytes":  483837
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240522-latest.zip",
+                       "bytes":  862603
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240523-latest.zip",
+                       "bytes":  945637
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240527-latest.zip",
+                       "bytes":  824166
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240528-latest.zip",
+                       "bytes":  862624
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240529-latest.zip",
+                       "bytes":  477096
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240530-latest.zip",
+                       "bytes":  519682
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240826-latest.zip",
+                       "bytes":  1193607
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240828-latest.zip",
+                       "bytes":  1034125
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20240902-latest.zip",
+                       "bytes":  975808
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250101-latest.zip",
+                       "bytes":  619431
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250122-latest.zip",
+                       "bytes":  463811
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250127-latest.zip",
+                       "bytes":  627676
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250128-latest.zip",
+                       "bytes":  437673
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250129-latest.zip",
+                       "bytes":  463364
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250130-latest.zip",
+                       "bytes":  463409
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250203-latest.zip",
+                       "bytes":  486599
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250204-latest.zip",
+                       "bytes":  501787
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250210-latest.zip",
+                       "bytes":  518753
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250211-latest.zip",
+                       "bytes":  442452
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250213-latest.zip",
+                       "bytes":  505443
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250218-latest.zip",
+                       "bytes":  530724
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250219-latest.zip",
+                       "bytes":  591941
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250318-latest.zip",
+                       "bytes":  493464
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250421-latest.zip",
+                       "bytes":  620932
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250506-latest.zip",
+                       "bytes":  694646
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250512-latest.zip",
+                       "bytes":  569729
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250514-latest.zip",
+                       "bytes":  396046
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250519-latest.zip",
+                       "bytes":  766459
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250527-latest.zip",
+                       "bytes":  583548
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250605-latest.zip",
+                       "bytes":  596240
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250612-latest.zip",
+                       "bytes":  665320
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250702-latest.zip",
+                       "bytes":  1007988
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250707-latest.zip",
+                       "bytes":  632144
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250708-latest.zip",
+                       "bytes":  473722
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250709-latest.zip",
+                       "bytes":  631541
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250715-latest.zip",
+                       "bytes":  419696
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250716-latest.zip",
+                       "bytes":  630973
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250717-latest.zip",
+                       "bytes":  662793
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250721-latest.zip",
+                       "bytes":  657353
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250728-latest.zip",
+                       "bytes":  604990
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250729-latest.zip",
+                       "bytes":  626048
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250731-latest.zip",
+                       "bytes":  628926
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250805-latest.zip",
+                       "bytes":  327709
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250806-latest.zip",
+                       "bytes":  617662
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20250908-latest.zip",
+                       "bytes":  595298
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251016-latest.zip",
+                       "bytes":  629398
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251020-latest.zip",
+                       "bytes":  645198
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251021-latest.zip",
+                       "bytes":  560284
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251022-latest.zip",
+                       "bytes":  534289
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251027-latest.zip",
+                       "bytes":  430003
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251103-latest.zip",
+                       "bytes":  647079
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251104-latest.zip",
+                       "bytes":  603048
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251110-latest.zip",
+                       "bytes":  615868
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251111-latest.zip",
+                       "bytes":  606224
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20251124-latest.zip",
+                       "bytes":  615346
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260101-latest.zip",
+                       "bytes":  245602
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260106-latest.zip",
+                       "bytes":  454517
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260112-latest.zip",
+                       "bytes":  562057
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260113-latest.zip",
+                       "bytes":  584065
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260119-latest.zip",
+                       "bytes":  773060
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260120-latest.zip",
+                       "bytes":  573327
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260126-latest.zip",
+                       "bytes":  544938
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260211-latest.zip",
+                       "bytes":  606645
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260219-latest.zip",
+                       "bytes":  588403
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260317-latest.zip",
+                       "bytes":  578066
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260318-latest.zip",
+                       "bytes":  363810
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260415-latest.zip",
+                       "bytes":  299936
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-20260519-latest.zip",
+                       "bytes":  619576
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-arae-arae-testing-latest.zip",
+                       "bytes":  3491339
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-deta-latest.zip",
+                       "bytes":  271043
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-final-known-and-unknown-merged.xlsx-latest.zip",
+                       "bytes":  44008
+                   },
+                   {
+                       "name":  "codex-agent-excel-file-editor-old-sampels-latest.zip",
+                       "bytes":  1191575
+                   },
+                   {
+                       "name":  "codex-agent-ibd-ibs-sample-classifier-latest.zip",
+                       "bytes":  242177
+                   },
+                   {
+                       "name":  "codex-agent-ibd-vs-ibs-marker-finder-latest.zip",
+                       "bytes":  640775
+                   },
+                   {
+                       "name":  "codex-agent-item-.doc-latest.zip",
+                       "bytes":  42790
+                   },
+                   {
+                       "name":  "codex-agent-item-.pdf-latest.zip",
+                       "bytes":  1018526
+                   },
+                   {
+                       "name":  "codex-agent-item-.pptx-latest.zip",
+                       "bytes":  224124
+                   },
+                   {
+                       "name":  "codex-agent-item-.pptx.inspect.ndjson-latest.zip",
+                       "bytes":  4115
+                   },
+                   {
+                       "name":  "codex-agent-item-.xlsx-latest.zip",
+                       "bytes":  7383
+                   },
+                   {
+                       "name":  "codex-agent-item-chatgpt-image-may-28-2026-01_42_10-pm.png-latest.zip",
+                       "bytes":  1732084
+                   },
+                   {
+                       "name":  "codex-agent-item-exemp-latest.zip",
+                       "bytes":  8092969
+                   },
+                   {
+                       "name":  "codex-agent-item-gemini_generated_image_tia3oatia3oatia3.png-latest.zip",
+                       "bytes":  4106167
+                   },
+                   {
+                       "name":  "codex-agent-item-item-latest.zip",
+                       "bytes":  8900525
+                   },
+                   {
+                       "name":  "codex-agent-item-starvation-and-alkane-detectors.pptx-latest.zip",
+                       "bytes":  114111
+                   },
+                   {
+                       "name":  "codex-agent-item-starvation-latest.zip",
+                       "bytes":  125061
+                   },
+                   {
+                       "name":  "codex-agent-item-upo-latest.zip",
+                       "bytes":  3428188
+                   },
+                   {
+                       "name":  "codex-agent-item-upo19-enzyme.pptx-latest.zip",
+                       "bytes":  805630
+                   },
+                   {
+                       "name":  "codex-agent-item-v2-latest.zip",
+                       "bytes":  3142424
+                   },
+                   {
+                       "name":  "codex-agent-item-v2.pptx-latest.zip",
+                       "bytes":  529133
+                   },
+                   {
+                       "name":  "codex-agent-item-v3.doc-latest.zip",
+                       "bytes":  341397
+                   },
+                   {
+                       "name":  "codex-agent-item-v3.pptx-latest.zip",
+                       "bytes":  581006
+                   },
+                   {
+                       "name":  "codex-agent-item-work-latest.zip",
+                       "bytes":  5114494
+                   },
+                   {
+                       "name":  "codex-agent-item-yossi-10feb2026.xlsx-latest.zip",
+                       "bytes":  135727
+                   },
+                   {
+                       "name":  "codex-agent-manifest-latest.json",
+                       "bytes":  792
+                   },
+                   {
+                       "name":  "codex-agent-rnaseq-agent-all_experiments_split_t7_master_summary_report.docx-latest.zip",
+                       "bytes":  2672769
+                   },
+                   {
+                       "name":  "codex-agent-rnaseq-agent-k12-ibd-vs-ibs-latest.zip",
+                       "bytes":  7936752
+                   },
+                   {
+                       "name":  "codex-agent-rnaseq-agent-pao1-cdf-vs-cdr-latest.zip",
+                       "bytes":  8159577
+                   },
+                   {
+                       "name":  "codex-agent-rnaseq-agent-pao1-ibd-vs-ibs-latest.zip",
+                       "bytes":  6152678
+                   },
+                   {
+                       "name":  "codex-agent-teads-latest.zip",
+                       "bytes":  7793383
+                   },
+                   {
+                       "name":  "codex-backup-manifest-latest.json",
+                       "bytes":  4212
+                   },
+                   {
+                       "name":  "codex-config-safe-adama-latest.zip",
+                       "bytes":  22940865
+                   },
+                   {
+                       "name":  "codex-config-safe-kamin-latest.zip",
+                       "bytes":  22107944
+                   },
+                   {
+                       "name":  "codex-config-safe-rnaseq-agent-latest.zip",
+                       "bytes":  24921710
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-14-latest.zip",
+                       "bytes":  158130
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-.pptx-latest.zip",
+                       "bytes":  624738
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-.pptx.inspect.ndjson-latest.zip",
+                       "bytes":  5148
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_deck_previews-latest.zip",
+                       "bytes":  888449
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_deck_previews_starvation-latest.zip",
+                       "bytes":  1622265
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_deck_previews_v2-latest.zip",
+                       "bytes":  1564587
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_deck_previews_v3-latest.zip",
+                       "bytes":  1598848
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_report_v3_preview.pdf-latest.zip",
+                       "bytes":  598930
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_short_decks_assets-latest.zip",
+                       "bytes":  1550354
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_short_decks_previews-latest.zip",
+                       "bytes":  1266204
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_update_hebrew_previews-latest.zip",
+                       "bytes":  280855
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-adama_v3_figures-latest.zip",
+                       "bytes":  207843
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-build_adama_deck.mjs-latest.zip",
+                       "bytes":  4941
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-build_adama_deck_v2.mjs-latest.zip",
+                       "bytes":  4634
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-build_adama_update_hebrew.ps1-latest.zip",
+                       "bytes":  4353
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-cover_image.png-latest.zip",
+                       "bytes":  1732060
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-cover_image_deck.jpg-latest.zip",
+                       "bytes":  361220
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-deck_error.log-latest.zip",
+                       "bytes":  370155
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-deck_output.log-latest.zip",
+                       "bytes":  202
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-docx_check.zip-latest.zip",
+                       "bytes":  4505393
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-docx_check_unzip-latest.zip",
+                       "bytes":  4506524
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-fill_adama_report.ps1-latest.zip",
+                       "bytes":  4077
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-most-third_year_report-biochip_extracted.txt-latest.zip",
+                       "bytes":  10442
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-most_biochip_clean_render-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-most_biochip_tracked_render-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-plasmid_map.png-latest.zip",
+                       "bytes":  4106143
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-plasmid_map_deck.jpg-latest.zip",
+                       "bytes":  138589
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-plasmid_map_small.jpg-latest.zip",
+                       "bytes":  167455
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-starvation_chart_exports-latest.zip",
+                       "bytes":  94385
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-tmp-latest.zip",
+                       "bytes":  1577386
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-update_adama_report_v3.ps1-latest.zip",
+                       "bytes":  4842
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-update_starvation_report.ps1-latest.zip",
+                       "bytes":  2676
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-v2.pptx-latest.zip",
+                       "bytes":  528967
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-v3.pptx-latest.zip",
+                       "bytes":  581534
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-work-latest.zip",
+                       "bytes":  416664
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-you-are-an-exel-file-editure-latest.zip",
+                       "bytes":  2045820
+                   },
+                   {
+                       "name":  "codex-documents-2026-06-03-latest.zip",
+                       "bytes":  75038
+                   },
+                   {
+                       "name":  "codex-documents-2026-06-04-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-06-11-latest.zip",
+                       "bytes":  10617260
+                   },
+                   {
+                       "name":  "codex-documents-2026-06-17-latest.zip",
+                       "bytes":  5796348
+                   },
+                   {
+                       "name":  "codex-documents-2026-06-22-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-06-23-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-06-30-latest.zip",
+                       "bytes":  5463
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-outputs-latest.zip",
+                       "bytes":  304770
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-assets-latest.zip",
+                       "bytes":  83616
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-assignment_source-latest.zip",
+                       "bytes":  310213
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-audit_word_pages.ps1-latest.zip",
+                       "bytes":  1137
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-build_teads_assignment.py-latest.zip",
+                       "bytes":  21014
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-build_teads_hebrew.py-latest.zip",
+                       "bytes":  28829
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-capture_word_qa.ps1-latest.zip",
+                       "bytes":  1682
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-comments_english.json-latest.zip",
+                       "bytes":  321
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-comments_english_round2.json-latest.zip",
+                       "bytes":  335
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-comments_hebrew.json-latest.zip",
+                       "bytes":  318
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-comments_hebrew_round2.json-latest.zip",
+                       "bytes":  332
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-copy_moran_pages.ps1-latest.zip",
+                       "bytes":  1047
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-copy_moran_stage.txt-latest.zip",
+                       "bytes":  292
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-copy_word_pages_as_picture.ps1-latest.zip",
+                       "bytes":  1188
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-current_annotated_pages-latest.zip",
+                       "bytes":  3412997
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-current_comments.json-latest.zip",
+                       "bytes":  537
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-diagnose_docx.py-latest.zip",
+                       "bytes":  615
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-diagnostic_cuts-latest.zip",
+                       "bytes":  4564457
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-english_comments.json-latest.zip",
+                       "bytes":  321
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-english_comments_audit.json-latest.zip",
+                       "bytes":  387
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-english_comments_delivery.json-latest.zip",
+                       "bytes":  339
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-english_text_inventory.txt-latest.zip",
+                       "bytes":  11169
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-extract_docx_text_inventory.py-latest.zip",
+                       "bytes":  786
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-final_copy.docx-latest.zip",
+                       "bytes":  120014
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-final_copy.pdf-latest.zip",
+                       "bytes":  656723
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-hebrew_comments.json-latest.zip",
+                       "bytes":  318
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-hebrew_comments_delivery.json-latest.zip",
+                       "bytes":  336
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-inspect_docx_annotations.py-latest.zip",
+                       "bytes":  1185
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-moran_comments.json-latest.zip",
+                       "bytes":  319
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-moran_page_images-latest.zip",
+                       "bytes":  3488672
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-moran_render-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_part2_3-latest.zip",
+                       "bytes":  11449091
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-assets-latest.zip",
+                       "bytes":  36239
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-deviation-log.txt-latest.zip",
+                       "bytes":  733
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-edit_teads_revision.mjs-latest.zip",
+                       "bytes":  9781
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-final-inspect.ndjson-latest.zip",
+                       "bytes":  5364
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-final-layout-latest.zip",
+                       "bytes":  53867
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-final-montage.png-latest.zip",
+                       "bytes":  788732
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-final-montage.webp-latest.zip",
+                       "bytes":  135702
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-final-preview-latest.zip",
+                       "bytes":  3093145
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-package.json-latest.zip",
+                       "bytes":  309
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-qa-latest.zip",
+                       "bytes":  7338321
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-source-montage.png-latest.zip",
+                       "bytes":  688420
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-source-notes.txt-latest.zip",
+                       "bytes":  660
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-audit.txt-latest.zip",
+                       "bytes":  1090
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-frame-map.json-latest.zip",
+                       "bytes":  1718
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-inspect-latest.zip",
+                       "bytes":  3974634
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-starter-layout-latest.zip",
+                       "bytes":  51648
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-starter-preview-latest.zip",
+                       "bytes":  3087214
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-starter.manifest.json-latest.zip",
+                       "bytes":  1197
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-starter.pptx-latest.zip",
+                       "bytes":  1711855
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-presentations-teads_revision-tmp-template-starter.pptx.inspect.ndjson-latest.zip",
+                       "bytes":  19837
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa2.docx-latest.zip",
+                       "bytes":  121802
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa2.pdf-latest.zip",
+                       "bytes":  609822
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa3.docx-latest.zip",
+                       "bytes":  122468
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa3.docx.xml.txt-latest.zip",
+                       "bytes":  32640
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa3.pdf-latest.zip",
+                       "bytes":  609617
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_delivery-latest.zip",
+                       "bytes":  3572853
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_final-latest.zip",
+                       "bytes":  3571267
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_fix4-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_fix4_delivery-latest.zip",
+                       "bytes":  3658031
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_fix4_final-latest.zip",
+                       "bytes":  3657955
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_fix4_final_delivery-latest.zip",
+                       "bytes":  3658187
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_fix4_test72-latest.zip",
+                       "bytes":  3404044
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_fix4_word-latest.zip",
+                       "bytes":  3665294
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_english_pages-latest.zip",
+                       "bytes":  3603238
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_exact_edits_20260715-latest.zip",
+                       "bytes":  528
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_final.docx-latest.zip",
+                       "bytes":  139806
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_final.docx.xml.txt-latest.zip",
+                       "bytes":  32633
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_final_verified.pdf-latest.zip",
+                       "bytes":  545391
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_green_review_round2_source-latest.zip",
+                       "bytes":  3847225
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_green_round2_english-latest.zip",
+                       "bytes":  3897543
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_green_round2_hebrew-latest.zip",
+                       "bytes":  3114934
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_green_round3_hebrew-latest.zip",
+                       "bytes":  3104855
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_delivery-latest.zip",
+                       "bytes":  2804767
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_final-latest.zip",
+                       "bytes":  2963161
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_final2-latest.zip",
+                       "bytes":  2800214
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_fix4-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_fix4_delivery-latest.zip",
+                       "bytes":  2695474
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_fix4_final-latest.zip",
+                       "bytes":  2879558
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_fix4_final_delivery-latest.zip",
+                       "bytes":  2851238
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_fix4_word-latest.zip",
+                       "bytes":  2885964
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_hebrew_v2-latest.zip",
+                       "bytes":  2803821
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_moran_final.ps1-latest.zip",
+                       "bytes":  753
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_moran_stage.txt-latest.zip",
+                       "bytes":  234
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_onepager_20260715-latest.zip",
+                       "bytes":  166359
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_page6_replacement_20260715-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_review_comments_20260715-latest.zip",
+                       "bytes":  1941925
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-qa_review_final_20260715-latest.zip",
+                       "bytes":  527
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_final-latest.zip",
+                       "bytes":  4994026
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_final2-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_input.docx-latest.zip",
+                       "bytes":  120018
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_test.docx-latest.zip",
+                       "bytes":  34308
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_test.pdf-latest.zip",
+                       "bytes":  31448
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_v1-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_v2-latest.zip",
+                       "bytes":  4998662
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_v3-latest.zip",
+                       "bytes":  5003915
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-render_word_pages.ps1-latest.zip",
+                       "bytes":  971
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-teads_green_review_round2_comments.json-latest.zip",
+                       "bytes":  347
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-teads_green_review_round2_english.docx-latest.zip",
+                       "bytes":  114525
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-teads_presentation_qa.docx-latest.zip",
+                       "bytes":  124545
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-teads_ta_interview_assignment_current_annotated.docx-latest.zip",
+                       "bytes":  3296699
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-15-new-chat-work-teads_ta_interview_assignment_edited_moran_review.docx-latest.zip",
+                       "bytes":  129048
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-16-latest.zip",
+                       "bytes":  434457
+                   },
+                   {
+                       "name":  "codex-documents-2026-07-23-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-08-05-latest.zip",
+                       "bytes":  22
+                   }
+               ],
+    "skipped":  [
+                    {
+                        "name":  "codex-config-safe-core-latest.zip",
+                        "bytes":  354335958,
+                        "reason":  "exceeds_github_file_limit"
+                    }
+                ]
+}
