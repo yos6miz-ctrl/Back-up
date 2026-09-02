@@ -1,86 +1,42 @@
 ﻿{
-    "generatedAt":  "2026-08-15T10:18:19.2998760+03:00",
+    "generatedAt":  "2026-09-02T03:04:09.0452017+03:00",
     "maxFileBytes":  99614720,
     "copied":  [
                    {
-                       "name":  "codex-agent-adama-yeruka-.doc-latest.zip",
-                       "bytes":  42790
+                       "name":  "codex-agent-adama-yeruka-00_-latest.zip",
+                       "bytes":  1293005
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-.docx-latest.zip",
-                       "bytes":  126486
+                       "name":  "codex-agent-adama-yeruka-01_-latest.zip",
+                       "bytes":  3725349
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-.pdf-latest.zip",
-                       "bytes":  1018526
+                       "name":  "codex-agent-adama-yeruka-02_-latest.zip",
+                       "bytes":  3055307
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-.pptx-latest.zip",
-                       "bytes":  224124
+                       "name":  "codex-agent-adama-yeruka-03_-latest.zip",
+                       "bytes":  979584
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-.pptx.inspect.ndjson-latest.zip",
-                       "bytes":  4115
+                       "name":  "codex-agent-adama-yeruka-04_upo19-latest.zip",
+                       "bytes":  4233894
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-.xlsx-latest.zip",
-                       "bytes":  7383
+                       "name":  "codex-agent-adama-yeruka-05_-latest.zip",
+                       "bytes":  4505372
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-backup-before-bidi-fix.docx-latest.zip",
-                       "bytes":  127815
+                       "name":  "codex-agent-adama-yeruka-06_-latest.zip",
+                       "bytes":  5838345
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-backup-before-phosphate-names.docx-latest.zip",
-                       "bytes":  128114
+                       "name":  "codex-agent-adama-yeruka-99_-latest.zip",
+                       "bytes":  846908
                    },
                    {
-                       "name":  "codex-agent-adama-yeruka-chatgpt-image-may-28-2026-01_42_10-pm.png-latest.zip",
-                       "bytes":  1732084
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-gemini_generated_image_tia3oatia3oatia3.png-latest.zip",
-                       "bytes":  4106167
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-item-latest.zip",
-                       "bytes":  4505366
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-starvation-and-alkane-detectors.pptx-latest.zip",
-                       "bytes":  114111
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-starvation-latest.zip",
-                       "bytes":  322513
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-upo-latest.zip",
-                       "bytes":  3428188
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-upo19-enzyme.pptx-latest.zip",
-                       "bytes":  805630
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-v2-latest.zip",
-                       "bytes":  3142424
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-v2.pptx-latest.zip",
-                       "bytes":  529133
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-v3.doc-latest.zip",
-                       "bytes":  341397
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-v3.pptx-latest.zip",
-                       "bytes":  581006
-                   },
-                   {
-                       "name":  "codex-agent-adama-yeruka-yossi-10feb2026.xlsx-latest.zip",
-                       "bytes":  135727
+                       "name":  "codex-agent-dictation-history-latest.zip",
+                       "bytes":  22
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20230911-latest.zip",
@@ -96,7 +52,7 @@
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20230919-latest.zip",
-                       "bytes":  8990021
+                       "bytes":  8914405
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20230921-latest.zip",
@@ -108,7 +64,7 @@
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20230928-latest.zip",
-                       "bytes":  3490278
+                       "bytes":  3395566
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20231026-latest.zip",
@@ -148,7 +104,7 @@
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20231130-latest.zip",
-                       "bytes":  4061923
+                       "bytes":  3882521
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-447-new-447-new-20231204-latest.zip",
@@ -692,11 +648,11 @@
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-arae-arae-20240522-latest.zip",
-                       "bytes":  862603
+                       "bytes":  841496
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-arae-arae-20240523-latest.zip",
-                       "bytes":  945637
+                       "bytes":  924220
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-arae-arae-20240527-latest.zip",
@@ -704,7 +660,7 @@
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-arae-arae-20240528-latest.zip",
-                       "bytes":  862624
+                       "bytes":  848312
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-arae-arae-20240529-latest.zip",
@@ -972,7 +928,7 @@
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-final-known-and-unknown-merged.xlsx-latest.zip",
-                       "bytes":  44008
+                       "bytes":  54228
                    },
                    {
                        "name":  "codex-agent-excel-file-editor-old-sampels-latest.zip",
@@ -984,7 +940,7 @@
                    },
                    {
                        "name":  "codex-agent-ibd-vs-ibs-marker-finder-latest.zip",
-                       "bytes":  640775
+                       "bytes":  662868
                    },
                    {
                        "name":  "codex-agent-kamin-exemp-latest.zip",
@@ -1000,7 +956,11 @@
                    },
                    {
                        "name":  "codex-agent-manifest-latest.json",
-                       "bytes":  1007
+                       "bytes":  1448
+                   },
+                   {
+                       "name":  "codex-agent-repair-backups-latest.zip",
+                       "bytes":  22
                    },
                    {
                        "name":  "codex-agent-rnaseq-agent-all_experiments_split_t7_master_summary_report.docx-latest.zip",
@@ -1023,8 +983,12 @@
                        "bytes":  7793383
                    },
                    {
+                       "name":  "codex-agent-thread-writer-locks-latest.zip",
+                       "bytes":  376
+                   },
+                   {
                        "name":  "codex-backup-manifest-latest.json",
-                       "bytes":  4026
+                       "bytes":  4043
                    },
                    {
                        "name":  "codex-config-safe-rnaseq-agent-latest.zip",
@@ -1079,8 +1043,44 @@
                        "bytes":  207843
                    },
                    {
+                       "name":  "codex-documents-2026-05-28-new-chat-analyze_pstarv_workbooks.py-latest.zip",
+                       "bytes":  970
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-analyze_puxpb_pstarv.py-latest.zip",
+                       "bytes":  1010
+                   },
+                   {
                        "name":  "codex-documents-2026-05-28-new-chat-analyze_yossi_13_aug_starvation.py-latest.zip",
                        "bytes":  2666
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-append_p_data_to_full_milestone_report.py-latest.zip",
+                       "bytes":  5992
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-bidi_heading_test.docx-latest.zip",
+                       "bytes":  34507
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-bidi_heading_test2.docx-latest.zip",
+                       "bytes":  34445
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-bidi_heading_test2_render-latest.zip",
+                       "bytes":  60641
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-bidi_heading_test_render-latest.zip",
+                       "bytes":  111364
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-bidi_test.docx-latest.zip",
+                       "bytes":  34602
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-bidi_test_render-latest.zip",
+                       "bytes":  142906
                    },
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-build_adama_deck.mjs-latest.zip",
@@ -1095,8 +1095,24 @@
                        "bytes":  4353
                    },
                    {
+                       "name":  "codex-documents-2026-05-28-new-chat-build_balanced_milestone_report.py-latest.zip",
+                       "bytes":  3488
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-build_integrated_milestone_report.py-latest.zip",
+                       "bytes":  4903
+                   },
+                   {
                        "name":  "codex-documents-2026-05-28-new-chat-build_promoter_milestone_report.py-latest.zip",
                        "bytes":  5891
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-build_readable_hebrew_milestone_report.py-latest.zip",
+                       "bytes":  5753
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-build_revised_m9_p_protocol.py-latest.zip",
+                       "bytes":  3743
                    },
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-build_use_this_one_average_curve.py-latest.zip",
@@ -1147,6 +1163,10 @@
                        "bytes":  4506524
                    },
                    {
+                       "name":  "codex-documents-2026-05-28-new-chat-docx_media_extract2-latest.zip",
+                       "bytes":  157817
+                   },
+                   {
                        "name":  "codex-documents-2026-05-28-new-chat-fill_adama_report.ps1-latest.zip",
                        "bytes":  4077
                    },
@@ -1155,8 +1175,16 @@
                        "bytes":  1729
                    },
                    {
+                       "name":  "codex-documents-2026-05-28-new-chat-generate_puxpb_phosphate_graph.py-latest.zip",
+                       "bytes":  3072
+                   },
+                   {
                        "name":  "codex-documents-2026-05-28-new-chat-inspect_phosphate_promoters.py-latest.zip",
                        "bytes":  965
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-inspect_pstarv_inputs.py-latest.zip",
+                       "bytes":  1171
                    },
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-inspect_report_phosphate_mentions.py-latest.zip",
@@ -1169,6 +1197,18 @@
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-locate_yossi_13_aug_tables.py-latest.zip",
                        "bytes":  825
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-m9_minimal_render-latest.zip",
+                       "bytes":  4190237
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-m9_protocol_render-latest.zip",
+                       "bytes":  764535
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-make_minimal_p_correction_docx.py-latest.zip",
+                       "bytes":  1501
                    },
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-most-third_year_report-biochip_extracted.txt-latest.zip",
@@ -1211,6 +1251,198 @@
                        "bytes":  22
                    },
                    {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_balanced_milestone-latest.zip",
+                       "bytes":  508261
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_after_sort-latest.zip",
+                       "bytes":  271636
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_bidi_fix_v1-latest.zip",
+                       "bytes":  1606954
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_bidi_fix_v2-latest.zip",
+                       "bytes":  1608582
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_bidi_fix_v3-latest.zip",
+                       "bytes":  1617062
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_detector_transfer-latest.zip",
+                       "bytes":  1933977
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_force_right_v1-latest.zip",
+                       "bytes":  1564298
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_full_p-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_full_p_word-latest.zip",
+                       "bytes":  2618746
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_full_p_word_final-latest.zip",
+                       "bytes":  2610144
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_integrated_exactp-latest.zip",
+                       "bytes":  1899755
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_integrated_final-latest.zip",
+                       "bytes":  1854260
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_integrated_final_v2-latest.zip",
+                       "bytes":  1858041
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_integrated_final_v3-latest.zip",
+                       "bytes":  1855268
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_integrated_final_v4-latest.zip",
+                       "bytes":  1857565
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_integrated_final_v5-latest.zip",
+                       "bytes":  1856487
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_pstarv-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_pstarv_professional-latest.zip",
+                       "bytes":  529007
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_pstarv_word-latest.zip",
+                       "bytes":  559179
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_p_sd_fix-latest.zip",
+                       "bytes":  1680165
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_p_sd_fix_final-latest.zip",
+                       "bytes":  1678458
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_p_sd_fix_final2-latest.zip",
+                       "bytes":  1670339
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_readable_hebrew-latest.zip",
+                       "bytes":  1936423
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_readable_hebrew_v2-latest.zip",
+                       "bytes":  1944343
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_readable_hebrew_v3-latest.zip",
+                       "bytes":  1563876
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_readable_hebrew_v4-latest.zip",
+                       "bytes":  1554163
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_readable_hebrew_v5-latest.zip",
+                       "bytes":  1554989
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_right_align_v1-latest.zip",
+                       "bytes":  1614120
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_right_align_v2-latest.zip",
+                       "bytes":  1612578
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_right_align_v3-latest.zip",
+                       "bytes":  1616148
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_right_align_v4-latest.zip",
+                       "bytes":  1606765
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_rtl_heading_fix_v1-latest.zip",
+                       "bytes":  1556863
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_rtl_heading_fix_v2-latest.zip",
+                       "bytes":  1552777
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_rtl_heading_fix_v3-latest.zip",
+                       "bytes":  1554575
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_rtl_punctuation_fix_v1-latest.zip",
+                       "bytes":  1556673
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_rtl_punctuation_fix_v2-latest.zip",
+                       "bytes":  1558120
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_summary_hyphen_fix_final-latest.zip",
+                       "bytes":  1605190
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_summary_hyphen_fix_v1-latest.zip",
+                       "bytes":  1615172
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_summary_hyphen_fix_v2-latest.zip",
+                       "bytes":  1615928
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_summary_hyphen_fix_v3-latest.zip",
+                       "bytes":  1615383
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_summary_hyphen_fix_v4-latest.zip",
+                       "bytes":  1606633
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_table_graph_requested_fix-latest.zip",
+                       "bytes":  1652795
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_table_graph_requested_fix_v2-latest.zip",
+                       "bytes":  1651068
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_units_symbols_v1-latest.zip",
+                       "bytes":  1552781
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_units_symbols_v2-latest.zip",
+                       "bytes":  1552822
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_units_symbols_v3-latest.zip",
+                       "bytes":  1553092
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_units_symbols_v4-latest.zip",
+                       "bytes":  1548628
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-render_milestone_visual_right_v1-latest.zip",
+                       "bytes":  1559738
+                   },
+                   {
                        "name":  "codex-documents-2026-05-28-new-chat-render_promoter_bidi-latest.zip",
                        "bytes":  22
                    },
@@ -1219,8 +1451,36 @@
                        "bytes":  22
                    },
                    {
+                       "name":  "codex-documents-2026-05-28-new-chat-rtl_alignment_test.docx-latest.zip",
+                       "bytes":  34457
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-rtl_alignment_test_render-latest.zip",
+                       "bytes":  76235
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-rtl_jc_start_test.docx-latest.zip",
+                       "bytes":  34440
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-rtl_jc_start_test_render-latest.zip",
+                       "bytes":  72409
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-rtl_number_test.docx-latest.zip",
+                       "bytes":  34450
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-rtl_number_test_render-latest.zip",
+                       "bytes":  65816
+                   },
+                   {
                        "name":  "codex-documents-2026-05-28-new-chat-search_office_text.py-latest.zip",
                        "bytes":  1038
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-sensing_deck_build-latest.zip",
+                       "bytes":  13810982
                    },
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-starvation_chart_exports-latest.zip",
@@ -1233,6 +1493,10 @@
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-update_adama_report_v3.ps1-latest.zip",
                        "bytes":  4842
+                   },
+                   {
+                       "name":  "codex-documents-2026-05-28-new-chat-update_milestone_report_pstarv.py-latest.zip",
+                       "bytes":  6062
                    },
                    {
                        "name":  "codex-documents-2026-05-28-new-chat-update_report_phosphate_promoters.py-latest.zip",
@@ -1260,11 +1524,11 @@
                    },
                    {
                        "name":  "codex-documents-2026-05-28-you-are-an-exel-file-editure-latest.zip",
-                       "bytes":  2045950
+                       "bytes":  5298721
                    },
                    {
                        "name":  "codex-documents-2026-06-03-latest.zip",
-                       "bytes":  75038
+                       "bytes":  114305
                    },
                    {
                        "name":  "codex-documents-2026-06-04-latest.zip",
@@ -1272,7 +1536,7 @@
                    },
                    {
                        "name":  "codex-documents-2026-06-11-latest.zip",
-                       "bytes":  14887688
+                       "bytes":  15894108
                    },
                    {
                        "name":  "codex-documents-2026-06-17-latest.zip",
@@ -1717,12 +1981,20 @@
                    {
                        "name":  "codex-documents-2026-08-09-latest.zip",
                        "bytes":  6135729
+                   },
+                   {
+                       "name":  "codex-documents-2026-08-26-latest.zip",
+                       "bytes":  22
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-latest.zip",
+                       "bytes":  2836437
                    }
                ],
     "skipped":  [
                     {
                         "name":  "codex-config-safe-core-latest.zip",
-                        "bytes":  481244374,
+                        "bytes":  341438977,
                         "reason":  "exceeds_github_file_limit"
                     }
                 ]

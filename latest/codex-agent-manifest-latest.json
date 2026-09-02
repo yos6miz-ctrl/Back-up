@@ -1,5 +1,10 @@
 ﻿[
     {
+        "name":  "dictation-history",
+        "relativePath":  "dictation-history",
+        "archivePrefix":  "dictation-history"
+    },
+    {
         "name":  "Excel file editor",
         "relativePath":  "Excel file editor",
         "archivePrefix":  "excel-file-editor"
@@ -15,6 +20,11 @@
         "archivePrefix":  "ibd-ibs-sample-classifier"
     },
     {
+        "name":  "repair-backups",
+        "relativePath":  "repair-backups",
+        "archivePrefix":  "repair-backups"
+    },
+    {
         "name":  "RNAseq agent",
         "relativePath":  "RNAseq agent",
         "archivePrefix":  "rnaseq-agent"
@@ -23,6 +33,11 @@
         "name":  "Teads",
         "relativePath":  "Teads",
         "archivePrefix":  "teads"
+    },
+    {
+        "name":  "thread-writer-locks",
+        "relativePath":  "thread-writer-locks",
+        "archivePrefix":  "thread-writer-locks"
     },
     {
         "name":  "אדמה ירוקה",
