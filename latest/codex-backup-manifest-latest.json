@@ -10,22 +10,22 @@
                            "robocopyCode":  3,
                            "stats":  {
                                          "exists":  true,
-                                         "files":  1910,
-                                         "dirs":  349,
-                                         "bytes":  388383984
+                                         "files":  2080,
+                                         "dirs":  374,
+                                         "bytes":  440734851
                                      },
                            "outputTail":  [
                                               "",
                                               "               Total    Copied   Skipped  Mismatch    FAILED    Extras",
-                                              "    Dirs :       365        17       348         0         0         3",
-                                              "   Files :      1899       122      1777         0         0         1",
-                                              "   Bytes :  511.15 m   22.48 m  488.66 m         0         0     4.0 k",
-                                              "   Times :   0:00:00   0:00:00                       0:00:00   0:00:00",
+                                              "    Dirs :       391        25       366         0         0         3",
+                                              "   Files :      2069       174      1895         0         0         1",
+                                              "   Bytes :  561.07 m   50.72 m  510.35 m         0         0     4.0 k",
+                                              "   Times :   0:00:01   0:00:00                       0:00:00   0:00:00",
                                               "",
                                               "",
-                                              "   Speed :           119,688,898 Bytes/sec.",
-                                              "   Speed :             6,848.654 MegaBytes/min.",
-                                              "   Ended : ??? ????? 02 ?????? 2026 03:00:03",
+                                              "   Speed :           126,332,757 Bytes/sec.",
+                                              "   Speed :             7,228.818 MegaBytes/min.",
+                                              "   Ended : יום רביעי 09 ספטמבר 2026 10:55:13",
                                               ""
                                           ]
                        },
@@ -35,24 +35,24 @@
                             "robocopyCode":  3,
                             "stats":  {
                                           "exists":  true,
-                                          "files":  1065,
+                                          "files":  1067,
                                           "dirs":  453,
-                                          "bytes":  789665626
+                                          "bytes":  789668214
                                       },
                             "outputTail":  [
                                                "",
                                                "               Total    Copied   Skipped  Mismatch    FAILED    Extras",
-                                               "    Dirs :       455         9       446         0         0        11",
-                                               "   Files :      1021        21      1000         0         0        38",
-                                               "   Bytes :  521.65 m   40.15 m  481.49 m         0         0  280.51 m",
+                                               "    Dirs :       455         0       455         0         0        11",
+                                               "   Files :      1029         6      1023         0         0        38",
+                                               "   Bytes :  525.41 m   137.3 k  525.27 m         0         0  280.51 m",
                                                "   Times :   0:00:01   0:00:00                       0:00:00   0:00:01",
                                                "",
                                                "",
-                                               "   Speed :           713,727,915 Bytes/sec.",
-                                               "   Speed :            40,839.840 MegaBytes/min.",
-                                               "   Ended : ??? ????? 02 ?????? 2026 03:00:05",
+                                               "   Speed :           14,065,100 Bytes/sec.",
+                                               "   Speed :              804.811 MegaBytes/min.",
+                                               "   Ended : יום רביעי 09 ספטמבר 2026 10:55:15",
                                                ""
                                            ]
                         },
-    "completedAt":  "2026-09-02T03:00:05.7563439+03:00"
+    "completedAt":  "2026-09-09T10:55:15.9978286+03:00"
 }

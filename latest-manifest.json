@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T03:04:09.0452017+03:00",
+    "generatedAt":  "2026-09-09T11:01:31.8671902+03:00",
     "maxFileBytes":  99614720,
     "copied":  [
                    {
@@ -984,11 +984,11 @@
                    },
                    {
                        "name":  "codex-agent-thread-writer-locks-latest.zip",
-                       "bytes":  376
+                       "bytes":  776
                    },
                    {
                        "name":  "codex-backup-manifest-latest.json",
-                       "bytes":  4043
+                       "bytes":  4069
                    },
                    {
                        "name":  "codex-config-safe-rnaseq-agent-latest.zip",
@@ -1987,14 +1987,18 @@
                        "bytes":  22
                    },
                    {
-                       "name":  "codex-documents-2026-09-01-latest.zip",
-                       "bytes":  2836437
+                       "name":  "codex-documents-2026-09-01-m-outputs-latest.zip",
+                       "bytes":  1324309
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-latest.zip",
+                       "bytes":  19453292
                    }
                ],
     "skipped":  [
                     {
                         "name":  "codex-config-safe-core-latest.zip",
-                        "bytes":  341438977,
+                        "bytes":  341440614,
                         "reason":  "exceeds_github_file_limit"
                     }
                 ]
