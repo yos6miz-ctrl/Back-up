@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-09T11:01:31.8671902+03:00",
+    "generatedAt":  "2026-09-14T13:00:18.1735999+03:00",
     "maxFileBytes":  99614720,
     "copied":  [
                    {
@@ -984,11 +984,11 @@
                    },
                    {
                        "name":  "codex-agent-thread-writer-locks-latest.zip",
-                       "bytes":  776
+                       "bytes":  376
                    },
                    {
                        "name":  "codex-backup-manifest-latest.json",
-                       "bytes":  4069
+                       "bytes":  4037
                    },
                    {
                        "name":  "codex-config-safe-rnaseq-agent-latest.zip",
@@ -1988,17 +1988,65 @@
                    },
                    {
                        "name":  "codex-documents-2026-09-01-m-outputs-latest.zip",
-                       "bytes":  1324309
+                       "bytes":  1573163
                    },
                    {
-                       "name":  "codex-documents-2026-09-01-m-work-latest.zip",
-                       "bytes":  19453292
+                       "name":  "codex-documents-2026-09-01-m-work-aliquot_action_ledger.json-latest.zip",
+                       "bytes":  7731
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-aliquot_status_after-latest.zip",
+                       "bytes":  873288
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-analyze_status_aliquots.py-latest.zip",
+                       "bytes":  2354
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-apply_aliquot_status_font_fix.mjs-latest.zip",
+                       "bytes":  2041
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-build_aliquot_action_ledger.py-latest.zip",
+                       "bytes":  2660
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-full_source_audit.json-latest.zip",
+                       "bytes":  11253
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-onedrive_tabs_fix-latest.zip",
+                       "bytes":  18519518
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-render_verify_aliquot_status_fix.mjs-latest.zip",
+                       "bytes":  1071
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-split_final-latest.zip",
+                       "bytes":  5042637
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-status_aliquot_analysis.json-latest.zip",
+                       "bytes":  17003
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-summarize_action_ledger.py-latest.zip",
+                       "bytes":  829
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-summarize_status_aliquots.py-latest.zip",
+                       "bytes":  842
+                   },
+                   {
+                       "name":  "codex-documents-2026-09-01-m-work-verify_aliquot_status_font_fix.py-latest.zip",
+                       "bytes":  1905
                    }
                ],
     "skipped":  [
                     {
                         "name":  "codex-config-safe-core-latest.zip",
-                        "bytes":  341440614,
+                        "bytes":  341440325,
                         "reason":  "exceeds_github_file_limit"
                     }
                 ]
